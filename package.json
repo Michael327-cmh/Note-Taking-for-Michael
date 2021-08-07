@@ -1,0 +1,19 @@
+{
+  "name": "not-note-taker",
+  "version": "1.0.0",
+  "description": "This application allows the user to log a title for their notes as well as their notes. It will then save the notes on the left hand side of the screen for later use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael327-cmh/Note-Taking_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael327-cmh/Note-Taking_App/issues"
+  },
+  "homepage": "https://github.com/Michael327-cmh/Note-Taking_App#readme"
+}
